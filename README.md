@@ -5,7 +5,9 @@ This is a local prompt/wild cards generator .exe that can be customized to own a
 How to use:
 
 Extract .zip file.
+
 dist > wildcard_gen.exe.
+
 Click GENERATE PROMPT.
 
 Notes for customization:
