@@ -1,3 +1,5 @@
+This is my first time uploading on github so mistakenly uploaded files as .zip🥀
+
 This is a local prompt/wild cards generator .exe that can be customized to own accords.
 
 How to use:
