@@ -15,6 +15,6 @@ Notes for customization:
 3. Format of making your own wild card is easy, take a look at already presented wild cards within wild card text.
 4. If want to remove a wild card, then remove it from the wild card text folder.
 5. Tags can be added or removed from already presented wild cards. And wild cards can be renamed.
-6.Currently UI only support .txt as file support.
+6. Currently UI only support .txt as file support.
 
 Currently there are only dresses and hair styles related wild cards, so a user doesn't get overwhelmed. Feel free to add your own SFW/NSFW wild card.
