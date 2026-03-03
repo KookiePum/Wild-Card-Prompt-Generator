@@ -10,7 +10,7 @@ How to use:
 
 Notes for customization:
 
-1. If a .txt was already present inside Loaded Wildcards and then was added again then it will add numbers to the file name.
+1. If a .txt was already present inside Loaded Wildcards and then was added again then it will same wild card again with numbering on file name.
 2. Click Save Wildcards so that there won't be no need to add them again when opening up the UI. Saved Wildcards will be presented within dist > wild card text.
 3. Format of making your own wild card is easy, take a look at already presented wild cards within wild card text.
 4. If want to remove a wild card, then remove it from the wild card text folder.
