@@ -18,3 +18,9 @@ Notes for customization:
 6. Currently UI only support .txt as file support.
 
 Currently there are only dresses and hair styles related wild cards, so a user doesn't get overwhelmed. Feel free to add your own SFW/NSFW wild card.
+
+If users want to build it from source code then follow these steps:
+
+1. Open cmd and locate it to "Wild Card Prompt Generator" folder.
+2. Install dependecies ```pip install pyinstaller```.
+3. Now build from source code using this command ```pyinstaller --onefile --noconsole wildcard_gen.py```.
